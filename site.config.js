@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Junha Jang",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "고등학교 1학년 (17세)",
+    role: "고등학교 1학년 (만 16세)",
     bio: "창업을 준비하고 있어요.",
     email: "me@junha.me",
     linkedin: "wkdd",
